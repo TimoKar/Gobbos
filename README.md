@@ -1,6 +1,6 @@
 # Too many gobbos
 My programming sample as a simple game where you play in fantasy world and create your own character. 
-This project shows some basic skills i have in Java. In addition to these i also know SQL and reading/writing text files in Java, but this project didn't need those.
+This project shows some basic skills i have in Java.
 
 The .rar file contains:
 -"Gameready" folder, this folder contains launch ready version of the game.
