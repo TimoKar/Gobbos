@@ -1,6 +1,6 @@
 # Too many gobbos
 My programming sample as a simple game where you play in fantasy world and create your own character. 
-This project shows some basic skills i have in Java.
+This project shows some basic skills i have in Java. 
 
 The .rar file contains:
 -"Gameready" folder, this folder contains launch ready version of the game.
@@ -17,6 +17,7 @@ Known bugs:
 -escaping from combat can be buggy.
 
 Installation/launching the game:
+-install Java.
 -extract the .rar file using winrar.
 -open the "Gameready" folder.
 -run the .bat file named "launch"
