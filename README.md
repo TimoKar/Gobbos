@@ -18,6 +18,5 @@ Known bugs:
 
 Installation/launching the game:
 -install Java.
--extract the .rar file using winrar.
 -open the "Gameready" folder.
--run the .bat file named "launch"
+-run the .bat file named "Launch"
